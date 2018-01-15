@@ -7,7 +7,7 @@
 ## Example of install on linux:
 ### Clone and initialise:
 ```
-git clone git@github.com:philippe-jung/this-is-a-test.git
+git clone git@github.com:philippe-jung/this-is-a-curve-test.git
 cd this-is-a-test
 composer install
 ```
