@@ -1,0 +1,7 @@
+<phpunit bootstrap="autoload.php">
+    <testsuites>
+        <testsuite name="Service">
+            <file>Service/Distance.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>

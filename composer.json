@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Curve\\": "src/lib",
+            "Curve\\Module\\": "src/module"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^3.4",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
