@@ -43,6 +43,7 @@ Add the domain name to your /etc/hosts file
 
 ## Usage
 The service is now accessible via "http://curve.local/api.php/distance?user1=jim&user2=dan"
+It takes 2 parameters: user1 and user2 that have to be valid usernames (see the config file for the mockup data).
 
 The tests are launched that way:
 ```
