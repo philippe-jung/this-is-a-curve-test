@@ -21,7 +21,7 @@ And add the following content:
 ```
 <VirtualHost *:80>
     ServerName curve.local
-    DocumentRoot /home/<YOU USERNAME HERE>/dev/curve/src/web
+    DocumentRoot /<PATH TO YOUR CLONE>/src/web
 
     <Directory />
         Options Indexes FollowSymLinks MultiViews
